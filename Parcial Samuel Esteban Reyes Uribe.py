@@ -9,7 +9,7 @@ class Registrar:
         return NombreLi, Estado, 
     def RegistrarUsuario(self):
         NombreUs=input("cual es el nombre de el usuario: ")
-        Edad=input(int("cual es la edad del usuario: "))
+        Edad=int(input("cual es la edad del usuario: "))
         docID=input("cual es el documento del usuario: ")
         return NombreUs, Edad, docID
 
@@ -52,4 +52,4 @@ libro1 = Registrar("01")
 libro1.RegistrarLi()
 Usuario1 = Registrar("02")
 
-Usuario1.RegistrarUs()
+Usuario1.RegistrarUsuario()
