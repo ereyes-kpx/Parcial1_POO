@@ -3,6 +3,8 @@
 
 #capturas de funcionamiento
 <img width="393" height="87" alt="image" src="https://github.com/user-attachments/assets/e37676e9-7cee-4875-a389-9c2945162f0d" />
+
+
 solicita datos de nombre y estado del libro para su registro
-solici datos de nombre, edad y documento para el registro del usuario
+solicita datos de nombre, edad y documento para el registro del usuario
 
